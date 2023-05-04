@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://cdn.alexishenry.eu/shared/images/taskly.svg" alt="logo" width="200" height="auto" />
+  <img src="https://avatars.githubusercontent.com/u/132271137?s=400&u=bc5cc06aba87812294a2eb1ea06c15a17f983395&v=4" alt="logo" width="200" height="auto" />
   
   <p>
     The best in this domain 🧑‍💼
